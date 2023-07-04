@@ -1,0 +1,501 @@
+id,rank,name,symbol,slug,is_active,first_historical_data,last_historical_data,platform
+2379,1705,Kcash,KCASH,kcash,1,2018-01-12T19:39:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x32d74896f05204d1b6ae7b0a3cebd7fc0cd8f9c7'}"
+2386,2617,KZ Cash,KZC,kz-cash,1,2018-01-13T23:34:18.000Z,2023-06-07T04:29:00.000Z,
+2387,895,Bitcoin Atom,BCA,bitcoin-atom,1,2018-01-13T23:34:18.000Z,2023-06-07T04:29:00.000Z,
+2391,2354,EchoLink,EKO,echolink,1,2018-01-14T17:04:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee'}"
+2392,1881,Bottos,BTO,bottos,1,2018-01-14T17:29:17.000Z,2023-06-07T04:29:00.000Z,
+2394,247,Telcoin,TEL,telcoin,1,2018-01-15T00:19:18.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x467bccd9d29f223bce8043b84e8c8b282827790f'}"
+2395,2444,Ignition,IC,ignition,1,2018-01-15T00:19:18.000Z,2023-06-07T04:29:00.000Z,
+2396,2637,WETH,WETH,weth,1,2018-01-14T19:09:18.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'}"
+2398,427,SelfKey,KEY,selfkey,1,2018-01-15T17:34:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4cc19356f2d37338b9802aa8e8fc58b0373296e7'}"
+2399,1338,INT,INT,int-chain,1,2018-01-15T17:54:19.000Z,2023-06-07T04:29:00.000Z,
+2400,2518,OneRoot Network,RNT,oneroot-network,1,2018-01-15T19:04:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xff603f43946a3a28df5e6a73172555d8c8b02386'}"
+2405,155,IOST,IOST,iostoken,1,2018-01-16T01:44:18.000Z,2023-06-07T04:29:00.000Z,
+2407,1465,AICHAIN,AIT,aichain,1,2018-01-16T05:54:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x79650799e7899a802cb96c0bc33a6a8d4ce4936c'}"
+2410,894,SpaceChain,SPC,spacechain,1,2018-01-17T00:04:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x86ed939b500e121c0c5f493f399084db596dad20'}"
+2415,1924,ArbitrageCT,ARCT,arbitragect,1,2018-01-17T17:34:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1245ef80f4d9e02ed9425375e8f649b9221b31d8'}"
+2416,56,Theta Network,THETA,theta-network,1,2018-01-17T17:34:26.000Z,2023-06-07T04:29:00.000Z,
+2419,8236,Profile Utility Token,PUT,profile-utility-token,1,2018-01-17T17:34:26.000Z,2023-06-07T04:29:00.000Z,
+2421,2426,VouchForMe,IPL,insurepal,1,2018-01-19T01:44:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80'}"
+2424,97,SingularityNET,AGIX,singularitynet,1,2018-01-19T01:44:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5B7533812759B45C2B44C19e320ba2cD2681b542'}"
+2427,2173,ChatCoin,CHAT,chatcoin,1,2018-01-20T00:29:26.000Z,2023-06-07T04:29:00.000Z,
+2428,1669,Scry.info,DDD,scryinfo,1,2018-01-20T00:29:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9F5F3CFD7a32700C93F971637407ff17b91c7342'}"
+2429,1115,Mobius,MOBI,mobius,1,2018-01-20T01:34:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 512, 'name': 'Stellar', 'symbol': 'XLM', 'slug': 'stellar', 'token_address': 'GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH'}"
+2430,1143,Hydro Protocol,HOT,hydro-protocol,1,2018-01-20T00:29:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9af839687f6c94542ac5ece2e317daae355493a1'}"
+2438,1633,Double-A Chain,AAC,acute-angle-cloud,1,2018-01-20T09:09:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe75ad3aab14e4b0df8c5da4286608dabb21bd864'}"
+2441,1453,Molecular Future,MOF,molecular-future,1,2018-01-22T17:39:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1958, 'name': 'TRON', 'symbol': 'TRX', 'slug': 'tron', 'token_address': 'TTn3SwRfohHJrE4dEB5NsUL2nGxTYGC8aW'}"
+2443,2164,Trinity Network Credit,TNC,trinity-network-credit,1,2018-01-22T17:39:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1376, 'name': 'Neo', 'symbol': 'NEO', 'slug': 'neo', 'token_address': '08e8c4400f1af2c20c28e0018f29535eb85d15b6'}"
+2444,1481,CRYPTO20,C20,c20,1,2018-01-22T17:39:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x26e75307fc0c021472feb8f727839531f112f317'}"
+2446,1902,DATA,DTA,data,1,2018-01-22T23:24:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x69b148395ce0015c13e36bffbad63f49ef874e03'}"
+2447,938,Crypterium,CRPT,crpt,1,2018-01-22T23:24:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x08389495D7456E1951ddF7c3a1314A4bfb646d8B'}"
+2448,2394,SparksPay,SPK,sparkspay,1,2018-01-22T23:24:27.000Z,2023-06-07T04:29:00.000Z,
+2450,1288,carVertical,CV,carvertical,1,2018-01-22T23:24:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x50bc2ecc0bfdf5666640048038c1aba7b7525683'}"
+2452,2439,Tokenbox,TBX,tokenbox,1,2018-01-24T02:04:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b'}"
+2453,2363,EDUCare,EKT,educare,1,2018-01-24T02:04:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4ecdb6385f3db3847f9c4a9bf3f9917bb27a5452'}"
+2454,2455,UnlimitedIP,UIP,unlimitedip,1,2018-01-24T02:04:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4290563c2d7c255b5eec87f2d3bd10389f991d68'}"
+2457,1320,TrueChain,TRUE,truechain,1,2018-01-24T02:09:27.000Z,2023-06-07T04:29:00.000Z,
+2458,1908,Odyssey,OCN,odyssey,1,2018-01-24T04:39:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4092678e4E78230F46A1534C0fbc8fA39780892B'}"
+2459,8747,indaHash,IDH,indahash,1,2018-01-24T04:39:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0'}"
+2462,1852,AidCoin,AID,aidcoin,1,2018-01-24T21:09:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x37e8789bb9996cac9156cd5f5fd32599e6b91289'}"
+2465,971,BUX Token,BUX,bux-token,1,2020-12-01T23:04:04.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0x211ffbe424b90e25a15531ca322adf1559779e45'}"
+2466,2100,Moola,AXPR,axpr-token,1,2018-01-25T03:39:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A'}"
+2467,246,OriginTrail,TRAC,origintrail,1,2018-01-25T03:39:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f'}"
+2468,1482,LinkEye,LET,linkeye,1,2018-01-25T03:44:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfa3118b34522580c35ae27f6cf52da1dbb756288'}"
+2469,95,Zilliqa,ZIL,zilliqa,1,2018-01-25T23:09:28.000Z,2023-06-07T04:29:00.000Z,
+2473,2356,All Sports,SOC,all-sports,1,2018-01-27T05:29:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3'}"
+2474,940,Matrix AI Network,MAN,matrix-ai-network,1,2018-01-27T05:29:27.000Z,2023-06-07T04:29:00.000Z,
+2475,1572,Garlicoin,GRLC,garlicoin,1,2018-01-27T05:29:28.000Z,2023-06-07T04:29:00.000Z,
+2476,1974,Ruff,RUFF,ruff,1,2018-01-29T17:34:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xf278c1ca969095ffddded020290cf8b5c424ace2'}"
+2478,1836,CoinFi,COFI,coinfi,1,2018-01-29T17:34:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3136ef851592acf49ca4c825131e364170fa32b3'}"
+2481,2136,Zeepin,ZPT,zeepin,1,2018-01-30T21:04:34.000Z,2023-06-07T04:29:00.000Z,
+2482,1385,CPChain,CPC,cpchain,1,2018-01-30T21:04:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': 'CPC-FED'}"
+2489,2320,BitWhite,BTW,bitwhite,1,2018-01-30T21:04:35.000Z,2023-06-07T04:29:00.000Z,
+2490,5760,CargoX,CXO,cargox,1,2018-01-31T22:09:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb6ee9668771a79be7967ee29a63d4184f8097143'}"
+2492,494,Elastos,ELA,elastos,1,2018-02-01T22:54:29.000Z,2023-06-07T04:29:00.000Z,
+2496,241,Polymath,POLY,polymath-network,1,2018-02-02T03:14:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec'}"
+2497,1751,Medicalchain,MTN,medical-chain,1,2018-02-03T19:04:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3'}"
+2499,240,SwissBorg,CHSB,swissborg,1,2018-02-03T19:04:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xba9d4199fab4f26efe3551d490e3821486f135ba'}"
+2501,2153,adbank,ADB,adbank,1,2018-02-03T19:04:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2baac9330cf9ac479d819195794d79ad0c7616e3'}"
+2502,81,Huobi Token,HT,huobi-token,1,2018-02-03T19:54:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6f259637dcd74c767781e37bc6133cd6a68aa161'}"
+2503,1786,DMarket,DMT,dmarket,1,2018-02-03T19:59:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1'}"
+2505,590,Bluzelle,BLZ,bluzelle,1,2018-02-06T18:34:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5732046a883704404f284ce41ffadd5b007fd668'}"
+2506,1819,Swarm,SWM,swarm-network,1,2018-02-07T04:09:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3505f494c3f0fed0b594e01fa41dd3967645ca39'}"
+2511,1896,WePower,WPR,wepower,1,2018-02-09T03:09:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4CF488387F035FF08c371515562CBa712f9015d4'}"
+2513,1979,GoldMint,MNTP,goldmint,1,2018-02-09T18:54:21.000Z,2023-06-07T04:29:00.000Z,
+2529,959,Cashaa,CAS,cashaa,1,2018-02-15T23:54:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c'}"
+2530,552,Fusion,FSN,fusion,1,2018-02-16T06:59:20.000Z,2023-06-07T04:29:00.000Z,
+2535,8748,Edge,EDGE,edge,1,2018-02-20T01:59:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4ec1b60b96193a64acae44778e51f7bff2007831'}"
+2536,2137,Neurotoken,NTK,neurotoken,1,2018-02-20T01:59:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x69beab403438253f13b6e92db91f7fb849258263'}"
+2537,2193,Gems ,GEM,gems-protocol,1,2018-02-20T21:54:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc7bba5b765581efb2cdd2679db5bea9ee79b201f'}"
+2539,287,Ren,REN,ren,1,2018-02-21T16:19:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x408e41876cccdc0f92210600ef50372656052a38'}"
+2540,1178,Litecoin Cash,LCC,litecoin-cash,1,2018-02-21T22:34:20.000Z,2023-06-07T04:29:00.000Z,
+2542,2909,Tidex Token,TDX,tidex-token,1,2018-02-23T01:04:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x317eb4ad9cfac6232f0046831322e895507bcbeb'}"
+2544,2065,Nitro Network,NCash,nucleus-vision,1,2018-02-26T16:19:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 5805, 'name': 'Avalanche', 'symbol': 'AVAX', 'slug': 'avalanche', 'token_address': '0xc69Eba65e87889f0805dB717Af06797055A0BA07'}"
+2545,809,Arcblock,ABT,arcblock,1,2018-02-26T16:44:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb98d4c97425d9908e66e53a6fdf673acca0be986'}"
+2546,2213,Remme,REM,remme,1,2018-02-26T17:39:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x83984d6142934bb535793a82adb0a46ef0f66b6d'}"
+2548,1021,POA Network,POA,poa,1,2018-02-28T16:34:21.000Z,2023-06-07T04:29:00.000Z,
+2552,2107,IHT Real Estate Protocol,IHT,iht-real-estate-protocol,1,2018-03-01T20:29:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xEda8B016efA8b1161208Cf041cD86972eeE0F31E'}"
+2553,537,Refereum,RFR,refereum,1,2018-03-01T20:29:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd0929d411954c47438dc1d871dd6081f5c5e149c'}"
+2554,1293,Lympo,LYM,lympo,1,2018-03-01T21:24:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5'}"
+2556,1475,Credits,CS,credits,1,2018-03-03T01:04:20.000Z,2023-06-07T04:29:00.000Z,
+2561,1529,BitTube,TUBE,bit-tube,1,2018-03-06T00:44:20.000Z,2023-06-07T04:29:00.000Z,
+2562,1483,Education Ecosystem,LEDU,education-ecosystem,1,2018-03-06T00:44:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc741f06082aa47f93729070ad0dd95e223bda091'}"
+2563,29,TrueUSD,TUSD,trueusd,1,2018-03-06T04:34:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0000000000085d4780B73119b644AE5ecd22b376'}"
+2565,2522,StarterCoin,STAC,startercoin,1,2018-03-08T01:19:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4'}"
+2566,149,Ontology,ONT,ontology,1,2018-03-08T07:14:20.000Z,2023-06-07T04:29:00.000Z,
+2569,5429,CoinPoker,CHP,coinpoker,1,2018-03-08T22:19:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 3890, 'name': 'Polygon', 'symbol': 'MATIC', 'slug': 'polygon', 'token_address': '0x59B5654a17Ac44F3068b3882F298881433bB07Ef'}"
+2570,175,TomoChain,TOMO,tomochain,1,2018-03-08T22:34:20.000Z,2023-06-07T04:29:00.000Z,
+2571,2031,Graft,GRFT,graft,1,2018-03-09T17:59:20.000Z,2023-06-07T04:29:00.000Z,
+2572,565,BABB,BAX,babb,1,2018-03-09T17:59:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135'}"
+2573,1848,Electrify.Asia,ELEC,electrifyasia,1,2018-03-09T17:59:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd49ff13661451313ca1553fd6954bd1d9b6e02b9'}"
+2575,1478,Bitcoin Private,BTCP,bitcoin-private,1,2018-03-10T15:54:20.000Z,2023-06-07T04:29:00.000Z,
+2576,1158,Tokenomy,TEN,tokenomy,1,2018-03-10T19:19:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xdd16ec0f66e54d453e6756713e533355989040e4'}"
+2577,117,Ravencoin,RVN,ravencoin,1,2018-03-10T20:39:21.000Z,2023-06-07T04:29:00.000Z,
+2578,907,TE-FOOD,TONE,te-food,1,2018-03-10T20:34:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4'}"
+2585,592,CENNZnet,CENNZ,centrality,1,2018-03-13T23:39:21.000Z,2023-06-07T04:29:00.000Z,
+2586,69,Synthetix,SNX,synthetix,1,2018-03-14T16:54:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f'}"
+2588,363,Loom Network,LOOM,loom-network,1,2018-03-14T20:29:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x42476F744292107e34519F9c357927074Ea3F75D'}"
+2592,2057,Banca,BANCA,banca,1,2018-03-19T14:29:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x998b3b82bc9dba173990be7afb772788b5acb8bd'}"
+2595,1771,NANJCOIN,NANJ,nanjcoin,1,2018-03-20T19:59:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265'}"
+2597,2293,UpToken,UP,uptoken,1,2018-03-21T01:24:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6ba460ab75cd2c56343b3517ffeba60748654d26'}"
+2601,1027,1World,1WO,1world,1,2018-03-21T21:19:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23'}"
+2603,8586,Pundi X (Old),NPXS,pundi-x,1,2018-03-22T17:04:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3'}"
+2604,2040,Bitcoin Green,BITG,bitcoin-green,1,2018-03-22T18:14:21.000Z,2023-06-07T04:29:00.000Z,
+2605,1096,BnkToTheFuture,BFT,bnktothefuture,1,2018-03-22T20:39:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f'}"
+2606,425,Wanchain,WAN,wanchain,1,2018-03-23T15:14:21.000Z,2023-06-07T04:29:00.000Z,
+2607,1363,AMLT,AMLT,amlt,1,2018-03-23T19:34:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xca0e7269600d353f70b14ad118a49575455c0f2f'}"
+2608,1210,Mithril,MITH,mithril,1,2018-03-24T19:39:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': 'MITH-C76'}"
+2614,2288,BlitzPick,XBP,blitzpredict,1,2018-03-27T17:14:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x28dee01d53fed0edf5f6e310bf8ef9311513ae40'}"
+2616,2377,Stipend,SPD,stipend,1,2018-03-27T17:14:21.000Z,2023-06-07T04:29:00.000Z,
+2620,807,Carbon Protocol,SWTH,switcheo,1,2018-04-02T18:29:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb4371da53140417cbb3362055374b10d97e420bb'}"
+2624,2315,Sentinel Chain,SENC,sentinel-chain,1,2018-04-02T18:54:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa13f0743951b4f6e3e3aa039f682e17279f52bc3'}"
+2626,2365,Friendz,FDZ,friends,1,2018-04-04T19:44:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x23352036e911a22cfc692b5e2e196692658aded9'}"
+2628,2268,Rentberry,BERRY,rentberry,1,2018-04-07T00:19:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c'}"
+2629,1597,Scala,XLA,scala,1,2018-04-09T17:04:22.000Z,2023-06-07T04:29:00.000Z,
+2630,722,PolySwarm,NCT,polyswarm,1,2018-04-10T22:04:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9e46a38f5daabe8683e10793b06749eef7d733d1'}"
+2631,8682,ODEM,ODE,odem,1,2018-04-10T22:04:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbf52f2ab39e26e0951d2a02b49b7702abe30406a'}"
+2634,83,XDC Network,XDC,xinfin,1,2018-04-13T20:59:26.000Z,2023-06-07T04:29:00.000Z,
+2638,463,Cortex,CTXC,cortex,1,2018-04-16T20:19:25.000Z,2023-06-07T04:29:00.000Z,
+2642,1913,CyberVein,CVT,cybervein,1,2018-04-17T20:49:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbe428c3867f05dea2a89fc76a102b544eac7f772'}"
+2643,904,Sentinel,DVPN,sentinel,1,2018-04-17T20:49:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 3794, 'name': 'Cosmos', 'symbol': 'ATOM', 'slug': 'cosmos', 'token_address': 'IBC/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84'}"
+2644,1945,eosDAC,EOSDAC,eosdac,1,2018-04-17T20:49:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba'}"
+2645,2062,U Network,UUU,u-network,1,2018-04-17T20:49:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3543638ed4a9006e4840b105944271bcea15605d'}"
+2653,2156,Auctus,AUC,auctus,1,2018-04-20T18:24:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc12d099be31567add4e4e4d0d45691c3f58f5663'}"
+2655,810,Monero Classic,XMC,monero-classic,1,2018-04-20T18:24:26.000Z,2023-06-07T04:29:00.000Z,
+2658,1741,Smart MFG,MFG,smart-mfg,1,2018-04-20T18:24:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6710c63432a2de02954fc0f851db07146a6c0312'}"
+2660,2239,Aditus,ADI,aditus,1,2018-04-23T23:14:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': 'ADI-6BB'}"
+2662,811,Haven Protocol,XHV,haven-protocol,1,2018-04-23T23:39:25.000Z,2023-06-07T04:29:00.000Z,
+2665,306,Dero,DERO,dero,1,2018-04-23T23:14:24.000Z,2023-06-07T04:29:00.000Z,
+2666,1353,Effect Network,EFX,effect-ai,1,2018-04-24T00:54:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1765, 'name': 'EOS', 'symbol': 'EOS', 'slug': 'eos', 'token_address': 'effecttokens'}"
+2667,2083,FintruX Network,FTX,fintrux-network,1,2018-04-23T23:14:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd559f20296FF4895da39b5bd9ADd54b442596a61'}"
+2673,2211,WeOwn,CHX,we-own,1,2018-04-25T22:44:27.000Z,2023-06-07T04:29:00.000Z,
+2674,2114,Masari,MSR,masari,1,2018-04-25T22:44:27.000Z,2023-06-07T04:29:00.000Z,
+2675,699,Dock,DOCK,dock,1,2018-04-25T22:44:27.000Z,2023-06-07T04:29:00.000Z,
+2677,963,Linker Coin,LNC,linker-coin,1,2018-04-25T22:44:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6BEB418Fc6E1958204aC8baddCf109B8E9694966'}"
+2682,113,Holo,HOT,holo,1,2018-04-30T22:14:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6c6ee5e31d828de241282b9606c8e98ea48526e2'}"
+2685,2186,Zebi Token,ZEBI,zebi-token,1,2018-04-30T21:49:25.000Z,2023-06-07T04:29:00.000Z,
+2689,2307,Rublix,RBLX,rublix,1,2018-05-01T11:54:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E'}"
+2694,92,Nexo,NEXO,nexo,1,2018-05-01T23:14:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206'}"
+2696,1314,DAEX,DAX,daex,1,2018-05-02T22:34:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0b4bdc478791897274652dc15ef5c135cae61e60'}"
+2698,1844,Hydro,HYDRO,hydro,1,2018-05-03T17:44:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x946112efab61c3636cbd52de2e1392d7a75a6f01'}"
+2700,380,Celsius,CEL,celsius,1,2018-05-03T17:44:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d'}"
+2704,2423,Transcodium,TNS,transcodium,1,2018-05-04T17:44:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb0280743b44bf7db4b6be482b2ba7b75e5da096c'}"
+2705,2254,Amon,AMN,amon,1,2018-05-03T17:49:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c'}"
+2707,1618,FLIP,FLP,flip,1,2018-05-04T17:44:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3'}"
+2709,1017,Morpheus Labs,MITX,morpheus-labs,1,2018-05-04T20:09:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6'}"
+2711,1062,DOC.COM,MTC,doc-com,1,2018-05-08T00:09:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x905E337c6c8645263D3521205Aa37bf4d034e745'}"
+2712,3558,MyToken,MT,mytoken,1,2018-05-08T00:09:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc'}"
+2717,2461,BoutsPro,BOUTS,boutspro,1,2018-05-10T15:54:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3'}"
+2724,7903,Zippie,ZIPT,zippie,1,2018-05-15T16:39:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xedd7c94fd7b4971b916d15067bc454b9e1bad980'}"
+2725,1865,Skrumble Network,SKM,skrumble-network,1,2018-05-10T19:19:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x048fe49be32adfc9ed68c37d32b5ec9df17b3603'}"
+2726,1777,DAOstack,GEN,daostack,1,2018-05-10T19:19:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x543ff227f64aa17ea132bf9886cab5db55dcaddf'}"
+2737,1563,Global Social Chain,GSC,global-social-chain,1,2018-05-15T15:49:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x228ba514309ffdf03a81a205a6d040e429d6e80c'}"
+2739,1151,Digix Gold Token,DGX,digix-gold-token,1,2018-05-15T15:49:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf'}"
+2742,1731,Sakura Bloom,SKB,sakura-bloom,1,2018-05-15T15:54:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4af328c52921706dcb739f25786210499169afe6'}"
+2745,2577,Joint Ventures,JOINT,joint-ventures,1,2018-09-17T19:59:17.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x347c099f110ca6761779329d2879957b606b6ace'}"
+2746,8749,GreenPower,GRN,greenpower,1,2018-05-21T14:29:25.000Z,2023-06-07T04:29:00.000Z,
+2748,875,Oxen,OXEN,oxen,1,2018-05-21T14:29:25.000Z,2023-06-07T04:29:00.000Z,
+2752,2548,Datarius Credit,DTRC,datarius-credit,1,2018-05-21T14:29:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc20464e0c373486d2b3335576e83a218b1618a5e'}"
+2757,1004,Callisto Network,CLO,callisto-network,1,2018-05-22T17:04:26.000Z,2023-06-07T04:29:00.000Z,
+2758,705,Unibright,UBT,unibright,1,2018-05-21T14:34:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e'}"
+2760,1862,Cred,LBA,libra-credit,1,2018-05-22T17:04:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfe5f141bf94fe84bc28ded0ab966c16b17490657'}"
+2762,1834,Open Platform,OPEN,open-platform,1,2018-05-22T17:04:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9d86b1b2554ec410eccffbf111a6994910111340'}"
+2763,335,Morpheus.Network,MNW,morpheus-network,1,2018-05-22T17:04:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4'}"
+2764,3732,Silent Notary,UBSN,silent-notary,1,2018-05-22T17:39:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x86EFc496DcA70bcFD92D19194290e8457a375773'}"
+2765,373,XYO,XYO,xyo,1,2018-05-22T17:04:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x55296f69f40ea6d20e478533c15a6b08b654e758'}"
+2771,1955,RED,RED,red,1,2018-05-23T19:44:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f'}"
+2772,6043,Digitex Games,DGTX,digitex,1,2018-05-23T19:44:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc666081073e8dff8d3d1c2292a29ae1a2153ec09'}"
+2776,540,Travala.com,AVA,travala,1,2018-05-28T19:44:41.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0'}"
+2777,131,IoTeX,IOTX,iotex,1,2018-05-25T15:49:26.000Z,2023-06-07T04:29:00.000Z,
+2780,274,NKN,NKN,nkn,1,2018-05-28T19:44:41.000Z,2023-06-07T04:29:00.000Z,
+2827,701,Phantasma,SOUL,phantasma,1,2018-05-28T19:44:42.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x75858677e27C930FB622759FeafFeE2b754Af07F'}"
+2828,2346,SPINDLE,SPD,spindle,1,2018-05-28T19:44:41.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1dEa979ae76f26071870F824088dA78979eb91C8'}"
+2830,2305,Seele-N,SEELE,seele,1,2018-05-31T21:39:41.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb1e93236ab6073fdac58ada5564897177d4bcc43'}"
+2837,1457,0xBitcoin,0xBTC,0xbtc,1,2018-06-04T15:14:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb6ed7644c69416d67b522e20bc294a9a9b405b31'}"
+2838,1169,Plian,PI,pchain,1,2018-06-04T15:14:49.000Z,2023-06-07T04:29:00.000Z,
+2840,355,QuarkChain,QKC,quarkchain,1,2018-06-04T16:59:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664'}"
+2846,8694,FuturoCoin,FTO,futurocoin,1,2018-06-07T22:59:49.000Z,2023-06-07T04:29:00.000Z,
+2847,1077,Abyss,ABYSS,abyss,1,2018-06-07T22:59:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6'}"
+2855,1291,CBC.network,CBC,cbc-network,1,2018-06-11T23:14:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x26DB5439F651CAF491A87d48799dA81F191bDB6b'}"
+2856,356,CEEK VR,CEEK,ceek-vr,1,2018-06-11T23:14:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb056c38f6b7dc4064367403e26424cd2c60655e1'}"
+2859,1847,XMax,XMX,xmax,1,2018-06-15T03:49:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0f8c45b896784a1e408526b9300519ef8660209c'}"
+2861,847,GoChain,GO,gochain,1,2018-06-13T20:49:50.000Z,2023-06-07T04:29:00.000Z,
+2862,2225,Smartshare,SSP,smartshare,1,2018-06-15T03:49:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x624d520bab2e4ad83935fa503fb130614374e850'}"
+2866,546,Sentinel Protocol,UPP,sentinel-protocol,1,2018-06-18T15:34:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc86d054809623432210c107af2e3f619dcfbf652'}"
+2868,430,Constellation,DAG,constellation,1,2018-06-20T19:59:49.000Z,2023-06-07T04:29:00.000Z,
+2869,2175,Merculet,MVP,merculet,1,2018-06-20T19:59:49.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8a77e40936bbc27e80e9a3f526368c967869c86d'}"
+2870,233,FantasyGold,FGC,fantasygold,1,2018-06-20T19:59:49.000Z,2023-06-07T04:29:00.000Z,
+2873,580,Metronome,MET,metronome,1,2018-06-26T17:39:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa'}"
+2874,1235,Aurora,AOA,aurora,1,2018-06-26T17:39:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9ab165d795019b6d8b3e971dda91071421305e5a'}"
+2876,8004,Ternio,TERN,ternio,1,2018-06-27T19:54:34.000Z,2023-06-07T04:29:00.000Z,
+2878,3533,DigiFinexToken,DFT,digifinextoken,1,2018-06-27T19:54:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a'}"
+2882,876,Zus,ZCN,0chain,1,2018-07-02T20:34:03.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb9ef770b6a5e12e45983c5d80545258aa38f3b78'}"
+2883,2404,ZINC,ZINC,zinc,1,2018-07-04T03:14:02.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea'}"
+2885,1354,Egretia,EGT,egretia,1,2018-07-02T20:34:03.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8e1b448ec7adfc7fa35fc2e885678bd323176e34'}"
+2889,1518,Bob's Repair,BOB,bobs-repair,1,2018-07-03T21:49:03.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134'}"
+2890,2152,KanadeCoin,KNDC,kanadecoin,1,2018-07-03T21:49:03.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8E5610ab5E39d26828167640EA29823fe1dD5843'}"
+2891,1051,Cardstack,CARD,cardstack,1,2018-07-03T21:49:03.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x954b890704693af242613edef1b603825afcd708'}"
+2894,4964,OTCBTC Token,OTB,otcbtc-token,1,2018-07-05T18:24:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa86a0da9d05d0771955df05b44ca120661af16de'}"
+2896,349,Hifi Finance (Old),MFT,mainframe,1,2018-07-05T16:19:04.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xdf2c7238198ad8b389666574f2d8bc411a4b7428'}"
+2901,2209,FansTime,FTI,fanstime,1,2018-07-06T20:49:06.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x943ed852dadb5c3938ecdc6883718df8142de4c8'}"
+2906,1545,Essentia,ESS,essentia,1,2018-07-06T20:49:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfc05987bd2be489ACCF0f509E44B0145d68240f7'}"
+2907,8750,Karatgold Coin,KBC,karatgold-coin,1,2018-07-06T20:49:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a'}"
+2908,2217,HashCoin,HSC,hashcoin,1,2018-07-10T01:04:18.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2bba3cf6de6058cc1b4457ce00deb359e2703d7f'}"
+2909,1220,LikeCoin,LIKE,likecoin,1,2018-07-10T01:04:18.000Z,2023-06-07T04:29:00.000Z,"{'id': 3794, 'name': 'Cosmos', 'symbol': 'ATOM', 'slug': 'cosmos', 'token_address': 'IBC/9989AD6CCA39D1131523DB0617B50F6442081162294B4795E26746292467B525'}"
+2912,1198,TENT,TENT,tent,1,2018-07-10T01:04:18.000Z,2023-06-07T04:29:00.000Z,
+2913,1527,Databroker,DTX,databroker,1,2018-07-11T03:49:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x765f0c16d1ddc279295c1a7c24b0883f62d33f75'}"
+2915,508,Moss Coin,MOC,moss-coin,1,2018-07-11T03:49:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x865ec58b06bf6305b886793aa20a2da31d034e68'}"
+2916,684,Nimiq,NIM,nimiq,1,2018-07-26T15:04:30.000Z,2023-06-07T04:29:00.000Z,
+2921,1160,OneLedger,OLT,oneledger,1,2018-07-12T16:14:24.000Z,2023-06-07T04:29:00.000Z,
+2927,385,sUSD,SUSD,susd,1,2018-07-13T16:04:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x57Ab1ec28D129707052df4dF418D58a2D46d5f51'}"
+2930,342,IQ,IQ,iq,1,2018-07-13T20:04:15.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x579cea1889991f68acc35ff5c3dd0621ff29b0c9'}"
+2933,619,BitMart Token,BMX,bitmart-token,1,2018-07-13T22:54:17.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8'}"
+2934,731,BitKan,KAN,bitkan,1,2018-07-30T18:39:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1410434b0346f5be678d0fb554e5c7ab620f8f4a'}"
+2937,646,VITE,VITE,vite,1,2018-07-18T01:34:15.000Z,2023-06-07T04:29:00.000Z,
+2938,2084,Hashgard,GARD,hashgard,1,2018-07-18T01:34:14.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5c64031c62061865e5fd0f53d3cdaef80f72e99d'}"
+2941,549,CoinEx Token,CET,coinex-token,1,2018-10-23T23:49:28.000Z,2023-06-07T04:29:00.000Z,
+2943,47,Rocket Pool,RPL,rocket-pool,1,2018-07-18T01:34:15.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd33526068d116ce69f19a9ee46f0bd304f21a51f'}"
+2945,1812,ContentBox,BOX,contentbox,1,2018-07-19T16:29:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f'}"
+2947,4961,SoPay,SOP,sopay,1,2018-07-19T16:29:17.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x076641af1b8f06b7f8c92587156143c109002cbe'}"
+2949,781,Kryll,KRL,kryll,1,2018-07-19T16:29:18.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0'}"
+2950,5100,LemoChain,LEMO,lemochain,1,2018-07-19T16:29:17.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x60c24407d01782c2175d32fe7c8921ed732371d1'}"
+2955,1986,Cosmo Coin,COSM,cosmo-coin,1,2018-07-23T11:54:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd1e10c37a27d95d95720291b1dc6f12f74c71443'}"
+2958,865,TurtleCoin,TRTL,turtlecoin,1,2018-07-23T11:54:17.000Z,2023-06-07T04:29:00.000Z,
+2960,2155,Tourist Token,TOTO,tourist-token,1,2018-07-25T17:39:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe3278df3eb2085ba9b6899812a99a10f9ca5e0df'}"
+2965,2224,VikkyToken,VIKKY,vikkytoken,1,2018-07-25T17:39:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd2946be786f35c3cc402c29b323647abda799071'}"
+2976,1878,Ryo Currency,RYO,ryo-currency,1,2018-07-27T01:29:34.000Z,2023-06-07T04:29:00.000Z,
+2980,1806,WABnetwork,WAB,wabnetwork,1,2018-07-27T01:29:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604'}"
+2982,315,MVL,MVL,mvl,1,2018-07-27T01:29:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa849eaae994fb86afa73382e9bd88c2b6b18dc71'}"
+2986,8751,DACC,DACC,dacc,1,2018-07-27T01:29:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xf8c595d070d104377f58715ce2e6c93e49a87f3c'}"
+2988,2516,Pigeoncoin,PGN,pigeoncoin,1,2018-07-30T18:39:27.000Z,2023-06-07T04:29:00.000Z,
+2989,239,STASIS EURO,EURS,stasis-euro,1,2018-07-30T18:44:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xdb25f211ab05b1c97d595516f45794528a807ad8'}"
+2991,1699,NIX,NIX,nix,1,2018-07-28T19:09:34.000Z,2023-06-07T04:29:00.000Z,
+2992,852,Apollo Currency,APL,apollo-currency,1,2018-07-28T19:09:35.000Z,2023-06-07T04:29:00.000Z,
+2994,5181,Bitcoin File,BIFI,bitcoin-file,1,2018-07-28T20:14:31.000Z,2023-06-07T04:29:00.000Z,
+2998,1472,Vexanium,VEX,vexanium,1,2018-07-31T17:19:20.000Z,2023-06-07T04:29:00.000Z,
+3006,8752,Niobio,NBR,niobio,1,2018-07-31T17:19:26.000Z,2023-06-07T04:29:00.000Z,
+3008,2289,Vivid Coin,VIVID,vivid-coin,1,2018-08-01T19:09:29.000Z,2023-06-07T04:29:00.000Z,
+3012,317,VeThor Token,VTHO,vethor-token,1,2018-07-30T19:19:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 3077, 'name': 'VeChain', 'symbol': 'VET', 'slug': 'vechain', 'token_address': '0x0000000000000000000000000000456E65726779'}"
+3013,8718,PRiVCY,PRIV,privcy,1,2018-07-31T18:39:23.000Z,2023-06-07T04:29:00.000Z,
+3018,8084,Kalkulus,KLKS,kalkulus,1,2018-08-01T19:09:26.000Z,2023-06-07T04:29:00.000Z,
+3022,1367,ZMINE,ZMN,zmine,1,2018-08-01T19:24:18.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0xfcb8a4b1a0b645e08064e05b98e9cc6f48d2aa57'}"
+3024,2415,Arionum,ARO,arionum,1,2018-08-01T21:04:22.000Z,2023-06-07T04:29:00.000Z,
+3029,167,Flux,FLUX,zel,1,2018-08-02T21:54:27.000Z,2023-06-07T04:29:00.000Z,
+3035,3618,Blocksquare Token,BST,blocksquare-token,1,2022-02-28T10:25:00.000Z,2023-06-07T04:30:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a'}"
+3052,801,GoCrypto Token,GOC,gocrypto-token,1,2018-08-03T19:24:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0x4b85a666dec7c959e88b97814e46113601b07e57'}"
+3056,2554,Thore Cash,TCH,thore-cash,1,2018-08-06T20:59:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5'}"
+3071,1628,EUNO,EUNO,euno,1,2018-08-03T19:19:21.000Z,2023-06-07T04:29:00.000Z,
+3073,8753,Esports Token,EST,esports-token,1,2018-08-03T19:19:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x18f5b4908e8861e3114ba9a0a9a4e84c5f180cc0'}"
+3077,39,VeChain,VET,vechain,1,2018-08-03T17:04:23.000Z,2023-06-07T04:29:00.000Z,
+3079,1833,X8X Token,X8X,x8x-token,1,2018-08-06T21:04:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c'}"
+3082,1403,VINchain,VIN,vinchain,1,2018-08-06T21:09:20.000Z,2023-06-07T04:29:00.000Z,
+3083,8754,Lina Network,LINA,lina-network,1,2018-08-07T22:29:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc05d14442a510de4d3d71a3d316585aa0ce32b50'}"
+3085,8755,Ino Coin,INO,ino-coin,1,2018-08-06T21:24:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f'}"
+3089,303,AVINOC,AVINOC,avinoc,1,2018-08-07T00:34:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xf1ca9cb74685755965c7458528a36934df52a3ef'}"
+3093,2166,BBSCoin,BBS,bbscoin,1,2018-08-30T02:04:17.000Z,2023-06-07T04:29:00.000Z,
+3095,2602,Niobium Coin,NBC,niobium-coin,1,2018-08-06T20:59:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9f195617fa8fbad9540c5d113a99a0a0172aaedc'}"
+3097,2593,XOVBank,XOV,xovbank,1,2018-08-06T21:14:19.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9'}"
+3106,2182,PKG Token,PKG,pkg-token,1,2018-08-08T16:54:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x02f2d4a04e6e01ace88bd2cd632875543b2ef577'}"
+3118,1547,Graviocoin,GIO,graviocoin,1,2018-08-07T23:34:21.000Z,2023-06-07T04:29:00.000Z,
+3121,2197,IGToken,IG,igtoken,1,2018-08-09T23:14:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8a88f04e0c905054d2f33b26bb3a46d7091a039a'}"
+3123,5378,GSENetwork,GSE,gsenetwork,1,2018-08-08T18:39:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838'}"
+3125,2597,XDNA,XDNA,xdna,1,2018-08-09T23:14:24.000Z,2023-06-07T04:29:00.000Z,
+3126,946,ProximaX,XPX,proximax,1,2018-08-09T00:14:17.000Z,2023-06-07T04:29:00.000Z,
+3128,1733,SiaCashCoin,SCC,siacashcoin,1,2018-08-09T23:14:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x74fd51a98a4a1ecbef8cc43be801cce630e260bd'}"
+3132,2180,EtherGem,EGEM,ethergem,1,2018-08-09T23:14:29.000Z,2023-06-07T04:29:00.000Z,
+3133,2466,Arepacoin,AREPA,arepacoin,1,2018-08-09T23:14:26.000Z,2023-06-07T04:29:00.000Z,
+3137,978,KARMA,KARMA,karma-eos,1,2018-08-10T20:29:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1765, 'name': 'EOS', 'symbol': 'EOS', 'slug': 'eos', 'token_address': 'therealkarma'}"
+3138,4719,Noku,NOKU,noku,1,2018-08-10T20:29:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8167D3B1024cB51A2DD1B4d889ddf7023420796a'}"
+3139,846,DxChain Token,DX,dxchain-token,1,2018-08-10T20:29:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x973e52691176d36453868D9d86572788d27041A9'}"
+3140,2089,Ubex,UBEX,ubex,1,2018-08-13T20:04:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1'}"
+3141,2018,Blockpass,PASS,blockpass,1,2018-08-10T20:24:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xee4458e052b533b1aabd493b5f8c4d85d7b263dc'}"
+3142,1025,BaaSid,BAAS,baasid,1,2018-08-10T20:24:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5d929AA919E489505CcAAd8A199619c6DCA0c2de'}"
+3149,8756,Netkoin,NTK,netkoin,1,2018-08-10T20:29:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c'}"
+3152,8757,Obitan Chain,OBTC,obitan-chain,1,2018-08-10T20:29:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2'}"
+3155,37,Quant,QNT,quant,1,2018-08-10T20:29:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4a220e6096b25eadb88358cb44068a3248254675'}"
+3156,6767,Airbloc,ABL,airbloc,1,2018-08-13T20:04:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xf8b358b3397a8ea5464f8cc753645d42e14b79ea'}"
+3158,2447,ZCore,ZCR,zcore,1,2018-08-13T20:44:31.000Z,2023-06-07T04:29:00.000Z,
+3159,2571,Apollon,XAP,apollon,1,2018-08-13T20:54:31.000Z,2023-06-07T04:29:00.000Z,
+3162,4380,YoloCash,YLC,yolocash,1,2018-08-13T23:39:32.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x21d5678a62dfe63a47062469ebb2fac2817d8832'}"
+3164,1776,PumaPay,PMA,pumapay,1,2018-08-13T23:39:32.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x846c66cf71c43f80403b51fe3906b3599d63336f'}"
+3166,2242,Bitcoin Incognito,XBI,bitcoin-incognito,1,2018-08-13T23:49:32.000Z,2023-06-07T04:29:00.000Z,
+3171,2504,HeartBout,HB,heartbout,1,2018-08-14T22:34:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe2492f8d2a2618d8709ca99b1d8d75713bd84089'}"
+3175,642,Maro,MARO,maro,1,2018-08-14T22:34:34.000Z,2023-06-07T04:29:00.000Z,
+3179,2521,Arbidex,ABX,arbidex,1,2018-08-16T17:54:42.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e'}"
+3181,1383,ShowHand,HAND,showhand,1,2018-08-16T17:54:42.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7'}"
+3182,1940,HitChain,HIT,hitchain,1,2018-08-16T17:54:42.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566'}"
+3184,2549,Gold Poker,GPKR,gold-poker,1,2018-08-16T17:54:42.000Z,2023-06-07T04:29:00.000Z,
+3189,7568,Mainstream For The Underground,MFTU,mainstream-for-the-underground,1,2018-08-16T17:49:39.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbA745513ACEbcBb977497C569D4F7d340f2A936B'}"
+3194,1877,DPRating,RATING,dprating,1,2018-08-20T15:44:47.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe8663a64a96169ff4d95b4299e7ae9a76b905b31'}"
+3198,8758,KingXChain,KXC,kingxchain,1,2018-08-22T22:14:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x016396044709eb3edc69c44f4d5fa6996917e4e8'}"
+3200,2398,Nasdacoin,NSD,nasdacoin,1,2018-08-22T22:14:32.000Z,2023-06-07T04:29:00.000Z,
+3205,1186,VeriDocGlobal,VDG,veridocglobal,1,2018-08-22T22:14:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x57C75ECCc8557136D32619a191fBCDc88560d711'}"
+3208,8759,YUKI,YUKI,yuki,1,2018-08-24T02:59:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5ab793e36070f0fac928ea15826b0c1bc5365119'}"
+3210,2421,MIB Coin,MIB,mib-coin,1,2018-09-04T14:54:19.000Z,2023-06-07T04:29:00.000Z,
+3217,290,Ontology Gas,ONG,ontology-gas,1,2018-08-23T22:34:32.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9'}"
+3218,992,Energi,NRG,energi,1,2018-08-24T02:59:29.000Z,2023-06-07T04:29:00.000Z,
+3219,2243,FUTURAX,FTXT,futurax,1,2018-08-24T02:59:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x41875c2332b0877cdfaa699b641402b7d4642c32'}"
+3220,1714,DAV Coin,DAV,dav-coin,1,2018-08-24T02:59:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd82df0abd3f51425eb15ef7580fda55727875f14'}"
+3238,8760,ABCC Token,AT,abcc-token,1,2018-10-23T23:54:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbf8fb919a8bbf28e590852aef2d284494ebc0657'}"
+3241,1206,FortKnoxster,FKX,fortknoxster,1,2018-08-30T01:59:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x16484d73ac08d2355f466d448d2b79d2039f6ebb'}"
+3242,2317,Beetlecoin,BEET,beetle-coin,1,2018-09-07T03:04:21.000Z,2023-06-07T04:29:00.000Z,
+3243,1255,Moneytoken,IMT,moneytoken,1,2018-08-30T21:04:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x13119e34e140097a507b07a5564bde1bc375d9e6'}"
+3247,2393,Fire Lotto,FLOT,fire-lotto,1,2018-09-05T19:39:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x049399a6b048d52971f7d122ae21a1532722285f'}"
+3255,1849,CyberMusic,CYMT,cybermusic,1,2018-09-07T20:49:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x78c292d1445e6b9558bf42e8bc369271ded062ea'}"
+3256,2054,Bitether,BTR,bitether,1,2018-09-07T20:49:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x499a6b77bc25c26bcf8265e2102b1b3dd1617024'}"
+3260,760,AMO Coin,AMO,amo-coin,1,2018-09-11T00:04:19.000Z,2023-06-07T04:29:00.000Z,
+3261,2481,EvenCoin,EVN,evencoin,1,2018-09-11T00:04:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x68909e586eeac8f47315e84b4c9788dd54ef65bb'}"
+3263,2601,Dinero,DIN,dinero,1,2018-09-11T02:09:28.000Z,2023-06-07T04:29:00.000Z,
+3265,2050,Havy,HAVY,havy,1,2018-09-11T23:24:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x7c2e5b7ec572199d3841f6a38f7d4868bd0798f1'}"
+3266,2570,Carebit,CARE,carebit,1,2018-09-11T23:24:23.000Z,2023-06-07T04:29:00.000Z,
+3273,2269,IQ.cash,IQ,iqcash,1,2018-09-12T21:59:17.000Z,2023-06-07T04:29:00.000Z,
+3279,1102,Rotharium,RTH,rotharium,1,2018-09-12T21:59:16.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3fd8f39a962efda04956981c31ab89fab5fb8bc8'}"
+3280,1969,RealTract,RET,realtract,1,2018-09-13T22:59:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd7394087e1dbbe477fe4f1cf373b9ac9459565ff'}"
+3285,1436,Birake,BIR,birake,1,2018-09-13T22:59:15.000Z,2023-06-07T04:29:00.000Z,
+3287,2628,Abulaba,AAA,abulaba,1,2018-09-14T19:19:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd938137e6d96c72e4a6085412ada2dad78ff89c4'}"
+3294,2445,Bitcoin Adult,BTAD,bitcoin-adult,1,2018-09-14T19:19:20.000Z,2023-06-07T04:29:00.000Z,
+3296,8720,MINDOL,MIN,mindol,1,2019-03-29T18:54:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5d64d850c8368008afb39224e92ad0dceff3cf38'}"
+3301,930,Invictus Hyperion Fund,IHF,invictus-hyperion-fund,1,2018-09-17T19:59:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xaf1250fa68d7decd34fd75de8742bc03b29bd58e'}"
+3304,8761,MobilinkToken,MOLK,mobilinktoken,1,2018-09-17T19:59:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x97cb5cc1b2e10cc56dc16ab9179f06dfedbe41a2'}"
+3306,72,Gemini Dollar,GUSD,gemini-dollar,1,2018-10-06T02:29:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd'}"
+3316,377,smARTOFGIVING,AOG,smartofgiving,1,2018-09-21T01:14:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8578530205cecbe5db83f7f29ecfeec860c297c2'}"
+3317,2091,Cryptrust,CTRT,cryptrust,1,2018-09-21T01:14:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8606a8f28e1e2fd50b9074d65c01548b1f040b32'}"
+3324,2020,PluraCoin,PLURA,pluracoin,1,2018-09-21T18:49:21.000Z,2023-06-07T04:29:00.000Z,
+3325,8762,Robotina,ROX,robotina,1,2018-09-21T18:49:20.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x574f84108a98c575794f75483d801d1d5dc861a5'}"
+3327,839,SIX,SIX,six,1,2018-09-21T18:49:21.000Z,2023-06-07T04:29:00.000Z,
+3328,8763,CMITCOIN,CMIT,cmitcoin,1,2018-09-21T18:59:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe11609b9a51caf7d32a55896386ac52ed90e66f1'}"
+3330,42,Pax Dollar,USDP,paxos-standard,1,2018-09-27T20:54:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8e870d67f660d95d5be530380d0ec0bd388289e1'}"
+3332,2438,Gossip Coin,GOSS,gossipcoin,1,2018-09-24T23:19:25.000Z,2023-06-07T04:29:00.000Z,
+3334,2000,X-CASH,XCASH,x-cash,1,2018-09-24T23:19:29.000Z,2023-06-07T04:29:00.000Z,
+3335,2285,Shard,SHARD,shard,1,2018-09-24T23:19:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbebdab6da046bc49ffbb61fbd7b33157eb270d05'}"
+3336,1370,IQeon,IQN,iqeon,1,2018-09-24T23:19:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0db8d8b76bc361bacbb72e2c491e06085a97ab31'}"
+3337,1587,QChi,QCH,qchi,1,2018-11-01T01:04:36.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x687bfc3e73f6af55f0ccca8450114d107e781a0e'}"
+3344,3843,Ecoreal Estate,ECOREAL,ecoreal-estate,1,2018-09-26T02:24:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x7ECbb21346C501Fd07eb165E406120fA32381C16'}"
+3345,1689,DAPS Coin,DAPS,daps-coin,1,2018-09-26T02:24:22.000Z,2023-06-07T04:29:00.000Z,
+3352,2306,MidasProtocol,MAS,midasprotocol,1,2018-09-27T20:54:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x23ccc43365d9dd3882eab88f43d515208f832430'}"
+3354,8764,TRONCLASSIC,TRXC,tronclassic,1,2018-09-27T20:54:21.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e'}"
+3356,1943,The Midas Touch Gold,TMTG,the-midas-touch-gold,1,2018-09-27T20:54:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x10086399dd8c1e3de736724af52587a2044c9fa2'}"
+3361,1310,MintMe.com Coin,MINTME,mintme-com-coin,1,2018-09-30T00:24:29.000Z,2023-06-07T04:29:00.000Z,
+3362,2206,Auxilium,AUX,auxilium,1,2018-10-01T17:59:22.000Z,2023-06-07T04:29:00.000Z,
+3364,1970,PLATINCOIN,PLC,platincoin,1,2018-10-01T17:59:26.000Z,2023-06-07T04:29:00.000Z,
+3366,2337,SafeInsure,SINS,safeinsure,1,2018-10-01T17:59:24.000Z,2023-06-07T04:29:00.000Z,
+3371,1276,MIR COIN,MIR,mir-coin,1,2018-10-03T02:34:26.000Z,2023-06-07T04:29:00.000Z,
+3377,2534,GenesisX,XGS,genesisx,1,2018-10-03T16:29:25.000Z,2023-06-07T04:29:00.000Z,
+3381,2501,Civitas,CIV,civitas,1,2018-10-03T16:29:24.000Z,2023-06-07T04:29:00.000Z,
+3383,2424,Knekted,KNT,knekted,1,2018-10-03T16:29:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x7CC62d8E80Be9bEa3947F3443aD136f50f75b505'}"
+3386,2117,Actinium,ACM,actinium,1,2018-10-05T01:59:26.000Z,2023-06-07T04:29:00.000Z,
+3388,1279,FREEdom Coin,FREE,free-coin,1,2018-10-05T01:59:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd'}"
+3389,1534,Tolar,TOL,tolar,1,2018-10-05T01:59:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd07d9fe2d2cc067015e2b4917d24933804f42cfa'}"
+3390,2491,Quantis Network,QUAN,quantis-network,1,2018-10-05T01:59:26.000Z,2023-06-07T04:29:00.000Z,
+3395,2294,SteepCoin,STEEP,steepcoin,1,2018-10-05T01:59:29.000Z,2023-06-07T04:29:00.000Z,
+3397,2002,Neural Protocol,NRP,neural-protocol,1,2018-10-05T02:09:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3918c42f14f2eb1168365f911f63e540e5a306b5'}"
+3398,2517,SCRIV NETWORK,SCRIV,scriv-network,1,2018-10-05T20:54:28.000Z,2023-06-07T04:29:00.000Z,
+3404,8765,Wixlar,WIX,wixlar,1,2018-10-05T20:54:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e'}"
+3408,5,USD Coin,USDC,usd-coin,1,2018-10-08T18:49:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'}"
+3417,4693,Future1coin,F1C,future1coin,1,2018-10-09T19:29:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb0a0a070640b450eb136dc377208469ee4f49fbc'}"
+3418,413,Metadium,META,metadium,1,2018-10-09T19:29:30.000Z,2023-06-07T04:29:00.000Z,
+3422,921,SHPING,SHPING,shping,1,2018-10-10T21:29:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec'}"
+3432,8125,Rapids,RPD,rapids,1,2018-10-11T16:34:28.000Z,2023-06-07T04:29:00.000Z,
+3435,1744,Snetwork,SNET,snetwork,1,2018-10-11T17:24:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xff19138b039d938db46bdda0067dc4ba132ec71c'}"
+3437,112,ABBC Coin,ABBC,abbc-coin,1,2018-10-12T19:44:29.000Z,2023-06-07T04:29:00.000Z,
+3441,675,Divi,DIVI,divi,1,2018-10-12T19:44:22.000Z,2023-06-07T04:29:00.000Z,
+3446,1923,Zenswap Network Token,ZNT,zenswap-network-token,1,2018-10-15T23:19:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe95990825aab1a7f0af4cc648f76a3bcc99f25b2'}"
+3449,2328,MMOCoin,MMO,mmocoin,1,2018-10-15T23:19:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0x0aa086e7a108d387de63294fe2a88b05820a9855'}"
+3451,2482,BLOC.MONEY,BLOC,bloc-money,1,2018-10-17T00:34:29.000Z,2023-06-07T04:29:00.000Z,
+3452,1652,Etho Protocol,ETHO,etho-protocol,1,2018-10-17T00:34:26.000Z,2023-06-07T04:29:00.000Z,
+3454,1929,Decentralized Asset Trading Platform,DATP,decentralized-asset-trading-platform,1,2018-10-17T00:34:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x813b428af3920226e059b68a62e4c04933d4ea7a'}"
+3456,8224,PlusOneCoin,PLUS1,plusonecoin,1,2018-10-17T00:34:29.000Z,2023-06-07T04:29:00.000Z,
+3457,1845,Iridium,IRD,iridium,1,2018-10-17T00:39:30.000Z,2023-06-07T04:29:00.000Z,
+3459,2581,GoHelpFund,HELP,gohelpfund,1,2018-10-17T17:44:30.000Z,2023-06-07T04:29:00.000Z,
+3464,2219,Cheesecoin,CHEESE,cheesecoin,1,2018-10-17T20:04:28.000Z,2023-06-07T04:29:00.000Z,
+3466,4580,Insureum,ISR,insureum,1,2018-10-18T21:04:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 4256, 'name': 'Klaytn', 'symbol': 'KLAY', 'slug': 'klaytn', 'token_address': '0x9657fb399847d85a9c1a234ece9ca09d5c00f466'}"
+3468,1922,Fivebalance,FBN,fivebalance,1,2018-10-18T21:04:27.000Z,2023-06-07T04:29:00.000Z,
+3469,2374,TrueDeck,TDP,truedeck,1,2018-10-18T21:04:26.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5b11aacb6bddb9ffab908fdce739bf4aed554327'}"
+3479,2025,MODEL-X-coin,MODX,model-x-coin,1,2018-10-22T21:39:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3c6Da7763cAA0e4b684BbC733f04a8EC08Af3762'}"
+3480,2555,StrongHands Masternode,SHMN,stronghands-masternode,1,2019-01-08T22:49:34.000Z,2023-06-07T04:29:00.000Z,
+3481,1639,Peony,PNY,peony,1,2018-10-22T21:39:26.000Z,2023-06-07T04:29:00.000Z,
+3482,2264,Teloscoin,TELOS,teloscoin,1,2018-10-22T21:39:25.000Z,2023-06-07T04:29:00.000Z,
+3484,1763,Waletoken,WTN,waletoken,1,2018-10-22T21:39:24.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0ea984e789302b7b612147e4e4144e64f21425eb'}"
+3489,292,Escroco Emerald,ESCE,escroco-emerald,1,2018-10-23T19:44:27.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x49614661737efbfc6a102efaeefdc8e197f7cc0e'}"
+3501,2075,CryptoSoul,SOUL,cryptosoul,1,2018-10-25T17:14:23.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbb1f24c0c1554b9990222f036b0aad6ee4caec29'}"
+3505,1758,Typerium,TYPE,typerium,1,2018-10-25T17:14:22.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f'}"
+3512,2503,Alpha Coin,APC,alpha-coin,1,2018-10-26T20:49:28.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829'}"
+3513,54,Fantom,FTM,fantom,1,2018-10-30T00:19:30.000Z,2023-06-07T04:29:00.000Z,
+3514,1996,SINOVATE,SIN,sinovate,1,2018-10-30T00:24:28.000Z,2023-06-07T04:29:00.000Z,
+3519,2021,Breezecoin,BRZE,breezecoin,1,2018-10-30T00:24:30.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x77c07555af5ffdc946fb47ce15ea68620e4e7170'}"
+3580,2618,Crystal Token,CYL,crystal-token,1,2018-11-01T01:04:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47'}"
+3581,673,Kleros,PNK,kleros,1,2018-11-01T19:34:33.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d'}"
+3589,5798,Ethereum Meta,ETHM,ethereum-meta,1,2018-11-02T22:29:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfd957f21bd95e723645c07c48a2d8acb8ffb3794'}"
+3596,1934,Nerva,XNV,nerva,1,2018-11-07T00:49:31.000Z,2023-06-07T04:29:00.000Z,
+3600,293,Humanscape,HUM,humanscape,1,2018-11-08T20:34:25.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x07327a00ba28D413f745C931bbe6bE053B0AD2a6'}"
+3602,68,Bitcoin SV,BSV,bitcoin-sv,1,2018-11-09T02:34:34.000Z,2023-06-07T04:29:00.000Z,
+3604,2572,SkyHub Coin,SHB,skyhub-coin,1,2018-11-12T22:19:31.000Z,2023-06-07T04:29:00.000Z,
+3607,1192,VestChain,VEST,vestchain,1,2018-11-15T19:39:29.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x37f04d2c3ae075fad5483bb918491f656b12bdb6'}"
+3608,2073,Hyprr,UDOO,hyprr,1,2018-11-15T19:39:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x12f649a9e821f90bb143089a6e56846945892ffb'}"
+3610,6235,Micromines,MICRO,micromines,1,2018-11-19T20:14:33.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d'}"
+3611,1397,Noir,NOR,noir,1,2018-11-21T01:39:32.000Z,2023-06-07T04:29:00.000Z,
+3613,2615,Dash Green,DASHG,dash-green,1,2019-01-14T23:44:40.000Z,2023-06-07T04:29:00.000Z,
+3616,1256,EvidenZ,BCDT,evidenz,1,2018-11-28T22:59:36.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5'}"
+3617,1223,ILCOIN,ILC,ilcoin,1,2018-11-27T00:09:35.000Z,2023-06-07T04:29:00.000Z,
+3620,1976,Atlas Protocol,ATP,atlas-protocol,1,2018-11-28T00:29:36.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': 'ATP-38C'}"
+3621,1630,BitNautic Token,BTNTV2,bitnautic-token,1,2018-11-28T22:59:36.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0xCbd787129d6e36225D93E46fA08556cC7F3a2458'}"
+3625,924,QuadrantProtocol,EQUAD,quadrantprotocol,1,2018-12-04T23:59:38.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc28e931814725bbeb9e670676fabbcb694fe7df2'}"
+3626,257,Rootstock Smart Bitcoin,RBTC,rsk-smart-bitcoin,1,2018-12-05T16:29:36.000Z,2023-06-07T04:29:00.000Z,
+3627,2408,Block-Logic,BLTG,block-logic,1,2018-12-07T01:09:35.000Z,2023-06-07T04:29:00.000Z,
+3628,428,MXC,MXC,mxc,1,2018-12-07T01:09:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5ca381bbfb58f0092df149bd3d243b08b9a8386e'}"
+3631,966,FOAM,FOAM,foam,1,2018-12-11T16:49:44.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4946fcea7c692606e8908002e55a582af44ac121'}"
+3632,1562,Opacity,OPCT,opacity,1,2018-12-12T23:24:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xDb05EA0877A2622883941b939f0bb11d1ac7c400'}"
+3633,2634,BitGuild PLAT,PLAT,bitguild-plat,1,2018-12-13T18:19:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1958, 'name': 'TRON', 'symbol': 'TRX', 'slug': 'tron', 'token_address': 'TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb'}"
+3634,936,Kambria,KAT,kambria,1,2018-12-13T18:19:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x14da230d6726C50F759Bc1838717F8CE6373509C'}"
+3635,35,Cronos,CRO,cronos,1,2018-12-14T17:39:38.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b'}"
+3636,1938,Link Machine Learning,LML,link-machine-learning,1,2018-12-14T20:14:36.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x25b6325f5bb1c1e03cfbc3e53f470e1f1ca022e3'}"
+3637,383,Aergo,AERGO,aergo,1,2018-12-17T19:44:36.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': 'AERGO-46B'}"
+3639,2053,PlayGame,PXG,playgame,1,2018-12-18T20:44:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x47e67ba66b0699500f18a53f94e2b9db3d47437e'}"
+3640,163,Livepeer,LPT,livepeer,1,2018-12-19T22:39:33.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x58b6a8a3302369daec383334672404ee733ab239'}"
+3644,2540,TravelNote,TVNT,travelnote,1,2018-12-26T20:49:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5635ddeabf9cdda686995fe90beb5411831563fc'}"
+3645,2460,Shivers,SHVR,shivers,1,2018-12-21T19:34:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b'}"
+3646,2001,Herbalist Token,HERB,herbalist-token,1,2018-12-21T20:49:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x04a020325024f130988782bd5276e53595e8d16e'}"
+3652,2141,ZumCoin,ZUM,zumcoin,1,2018-12-28T16:54:31.000Z,2023-06-07T04:29:00.000Z,
+3656,8341,Beacon,BECN,beacon,1,2019-01-01T23:04:36.000Z,2023-06-07T04:29:00.000Z,
+3657,1047,Lambda,LAMB,lambda,1,2019-01-02T16:44:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8971f9fd7196e5cee2c1032b50f656855af7dd26'}"
+3659,1899,QUINADS,QUIN,quinads,1,2019-01-03T15:24:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x86e44543164d9b97b14ef7f6f3ab7ba670cab346'}"
+3661,1130,Stronghold Token,SHX,stronghold-token,1,2019-01-03T17:39:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xee7527841a932d2912224e20a405e1a1ff747084'}"
+3662,6551,HedgeTrade,HEDG,hedgetrade,1,2019-01-03T17:49:38.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xF1290473E210b2108A85237fbCd7b6eb42Cc654F'}"
+3663,1085,Footballcoin (XFC),XFC,footballcoin,1,2019-01-03T18:29:37.000Z,2023-06-07T04:29:00.000Z,
+3664,8766,AgaveCoin,AGVC,agavecoin,1,2019-01-04T17:09:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8b79656FC38a04044E495e22fAD747126ca305C4'}"
+3666,574,Ultiledger,ULT,ultiledger,1,2019-01-07T23:39:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe884cc2795b9c45beeac0607da9539fd571ccf85'}"
+3667,1321,Atomic Wallet Coin,AWC,atomic-wallet-coin,1,2019-01-04T18:24:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xad22f63404f7305e4713ccbd4f296f34770513f4'}"
+3672,1828,DogeCash,DOGEC,dogecash,1,2019-01-07T23:59:37.000Z,2023-06-07T04:29:00.000Z,
+3673,395,ASD,ASD,bitmax-token,1,2019-01-08T03:34:34.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xff742d05420b6aca4481f635ad8341f81a6300c2'}"
+3679,7709,Earneo,RNO,earneo,1,2019-01-08T22:59:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0x7f6ee7e043d12c2de15e9b4bb6bc0921e86361a9'}"
+3681,4166,CENTER COIN,CENT,centercoin,1,2019-01-08T23:59:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 4256, 'name': 'Klaytn', 'symbol': 'KLAY', 'slug': 'klaytn', 'token_address': '0xd364de0683b29e582e5713425b215b24ce804ae9'}"
+3683,8767,AEN Smart Token,AENS,aen-smart-token,1,2019-01-09T17:49:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xD38dE88687172BDE440755b5237987e4A87c23A7'}"
+3686,4148,Conscious Value Network,CVNT,content-value-network,1,2019-01-09T18:54:33.000Z,2023-06-07T04:29:00.000Z,
+3687,1972,BitBall,BTB,bitball,1,2019-01-10T21:24:37.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x06e0feb0d74106c7ada8497754074d222ec6bcdf'}"
+3698,911,Observer,OBSR,observer,1,2019-01-15T23:49:35.000Z,2023-06-07T04:29:00.000Z,"{'id': 4256, 'name': 'Klaytn', 'symbol': 'KLAY', 'slug': 'klaytn', 'token_address': '0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4'}"
+3701,191,Rootstock Infrastructure Framework,RIF,rsk-infrastructure-framework,1,2019-01-16T23:54:38.000Z,2023-06-07T04:29:00.000Z,"{'id': 3626, 'name': 'Rootstock Smart Bitcoin', 'symbol': 'RBTC', 'slug': 'rsk-smart-bitcoin', 'token_address': '0x2acc95758f8b5f583470ba265eb685a8f45fc9d5'}"
+3702,962,Beam,BEAM,beam,1,2019-01-17T19:44:37.000Z,2023-06-07T04:29:00.000Z,
+3703,1264,ADAMANT Messenger,ADM,adamant-messenger,1,2019-01-17T23:54:33.000Z,2023-06-07T04:29:00.000Z,
+3704,1036,v.systems,VSYS,v-systems,1,2019-03-05T16:34:05.000Z,2023-06-07T04:29:00.000Z,
+3708,2598,Exosis,EXO,exosis,1,2019-01-28T16:59:09.000Z,2023-06-07T04:29:00.000Z,
+3709,986,Grin,GRIN,grin,1,2019-01-27T06:29:08.000Z,2023-06-07T04:29:00.000Z,
+3712,5648,Cloudbric,CLBK,cloudbric,1,2019-01-30T06:34:06.000Z,2023-06-07T04:29:00.000Z,"{'id': 4256, 'name': 'Klaytn', 'symbol': 'KLAY', 'slug': 'klaytn', 'token_address': '0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1'}"
+3714,476,LTO Network,LTO,lto-network,1,2019-02-06T01:54:08.000Z,2023-06-07T04:29:00.000Z,
+3715,1295,Cajutel,CAJ,cajutel,1,2019-01-31T23:44:08.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e'}"
+3716,8768,Amoveo,VEO,amoveo,1,2019-02-05T18:24:09.000Z,2023-06-07T04:29:00.000Z,
+3717,18,Wrapped Bitcoin,WBTC,wrapped-bitcoin,1,2019-01-30T18:19:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599'}"
+3718,214,BitTorrent,BTTOLD,bittorrent,1,2019-01-31T18:19:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1958, 'name': 'TRON', 'symbol': 'TRX', 'slug': 'tron', 'token_address': '1002000'}"
+3721,1672,Huobi Pool Token,HPT,huobi-pool-token,1,2019-02-01T16:24:11.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa66daa57432024023db65477ba87d4e7f5f95213'}"
+3722,901,TEMCO,TEMCO,temco,1,2019-02-04T20:24:06.000Z,2023-06-07T04:29:00.000Z,"{'id': 4256, 'name': 'Klaytn', 'symbol': 'KLAY', 'slug': 'klaytn', 'token_address': '0x3b3b30a76d169f72a0a38ae01b0d6e0fbee3cc2e'}"
+3724,719,SOLVE,SOLVE,solve,1,2019-02-04T16:49:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x446c9033e7516d820cc9a2ce2d0b7328b579406f'}"
+3730,2586,The Currency Analytics,TCAT,the-currency-analytics,1,2019-02-08T18:09:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xaff84e86d72edb971341a6a66eb2da209446fa14'}"
+3731,8769,PlayChip,PLA,playchip,1,2019-02-08T20:19:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0198f46f520F33cd4329bd4bE380a25a90536CD5'}"
+3732,1434,Conceal,CCX,conceal,1,2019-02-08T18:09:10.000Z,2023-06-07T04:29:00.000Z,
+3733,1775,S4FE,S4F,s4fe,1,2019-02-07T18:04:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a'}"
+3734,2274,Elamachain,ELAMA,elamachain,1,2019-02-07T22:24:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668'}"
+3737,8770,BTU Protocol,BTU,btu-protocol,1,2019-02-11T16:29:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb683d83a532e2cb7dfa5275eed3698436371cc9f'}"
+3738,2433,Decentralized Crypto Token,DCTO,decentralized-crypto-token,1,2019-02-13T16:49:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9ccbd05d4d25c745d49f5e6bf17e09113eb4c769'}"
+3741,6806,EurocoinToken,ECTE,eurocoin-token,1,2019-02-14T16:14:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea'}"
+3742,1439,Chimpion,BNANA,chimpion,1,2019-02-20T16:39:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x07ef9e82721ac16809d24dafbe1792ce01654db4'}"
+3746,2625,Electrum Dark,ELD,electrum-dark-eld,1,2019-02-18T14:04:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x796e47b85a0d759f300f1de96a3583004235d4d8'}"
+3748,5515,Hxro,HXRO,hxro,1,2019-02-15T15:14:08.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3'}"
+3752,2221,uPlexa,UPX,uplexa,1,2019-02-21T13:29:08.000Z,2023-06-07T04:29:00.000Z,
+3754,2181,EveryCoin ,EVY,everycoin,1,2019-02-20T16:39:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd'}"
+3759,3773,Jinbi Token,JNB,jinbi-token,1,2019-02-22T16:09:08.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x21d5a14e625d767ce6b7a167491c2d18e0785fda'}"
+3760,2566,Scanetchain,SWC,scanetchain,1,2019-02-22T16:14:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xadf8b8050639b6236915f7516d69de714672f0bf'}"
+3763,1410,Oduwacoin,OWC,oduwa,1,2019-02-25T13:24:10.000Z,2023-06-07T04:29:00.000Z,
+3764,2579,Save Environment Token,SET,save-environment-token,1,2019-02-26T15:39:08.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0a2d9370cf74da3fd3df5d764e394ca8205c50b6'}"
+3768,909,PIBBLE,PIB,pibble,1,2019-02-28T20:34:05.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1864ce27e9f7517047933caae530674e8c70b8a7'}"
+3769,1971,HashBX,HBX,hashsbx,1,2019-03-01T20:24:06.000Z,2023-06-07T04:29:00.000Z,"{'id': 1839, 'name': 'BNB', 'symbol': 'BNB', 'slug': 'bnb', 'token_address': '0x7b674129D7cE4b17D7D69c4c68A00aa429230e88'}"
+3770,2373,CustomContractNetwork,CCN,customcontractnetwork,1,2019-03-01T20:24:06.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x17b26400621695c2d8c2d8869f6259e82d7544c4'}"
+3773,143,Fetch.ai,FET,fetch,1,2019-03-02T23:54:09.000Z,2023-06-07T04:29:00.000Z,
+3779,2068,CoTrader,COT,cotrader,1,2019-03-07T21:49:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5c872500c00565505f3624ab435c222e558e9ff8'}"
+3783,120,Ankr,ANKR,ankr,1,2019-03-06T19:19:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8290333cef9e6d528dd5618fb97a76f268f3edd4'}"
+3786,8321,Lunes,LUNES,lunes,1,2019-03-14T22:14:09.000Z,2023-06-07T04:29:00.000Z,
+3792,132,ARAW,ARAW,araw,1,2019-03-12T20:09:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x30680ac0a8a993088223925265fd7a76beb87e7f'}"
+3794,19,Cosmos,ATOM,cosmos,1,2019-03-14T20:44:09.000Z,2023-06-07T04:29:00.000Z,
+3795,414,ZEON,ZEON,zeon,1,2019-03-15T20:19:08.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532'}"
+3798,2528,Xuez,XUEZ,xuez,1,2019-03-20T19:59:05.000Z,2023-06-07T04:29:00.000Z,
+3799,1282,SafeCoin,SAFE,safecoin,1,2019-03-18T13:14:09.000Z,2023-06-07T04:29:00.000Z,
+3800,1615,FidexToken,FEX,fidex-token,1,2019-04-24T21:04:11.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1c1c14a6b5074905ce5d367b0a7e098b58ebfd47'}"
+3801,165,BORA,BORA,bora,1,2019-03-18T13:14:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 4256, 'name': 'Klaytn', 'symbol': 'KLAY', 'slug': 'klaytn', 'token_address': '0x02cbe46fb8a1f579254a9b485788f2d86cad51aa'}"
+3805,2480,BoatPilot Token,NAVY,boat-pilot-token,1,2019-03-20T19:44:05.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc15a399c4ea7815fe36857c9e290ee452a5d6b21'}"
+3806,1882,TigerCash,TCH,tigercash,1,2019-03-19T22:34:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9b39a0b97319a9bd5fed217c1db7b030453bac91'}"
+3807,2604,LitecoinToken,LTK,litecoin-token,1,2019-03-20T19:44:06.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8a732bc91c33c167f868e0af7e6f31e0776d0f71'}"
+3809,2105,DOS Network,DOS,dos-network,1,2019-03-22T19:09:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7'}"
+3810,2125,Ethereum Gold Project,ETGP,ethereum-gold-project,1,2019-04-22T23:34:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa96f31f1c187c28980176c3a27ba7069f48abde4'}"
+3814,171,Celer Network,CELR,celer-network,1,2019-03-25T04:04:04.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4f9254c83eb525f9fcf346490bbb3ed28a81c667'}"
+3816,372,Verasity,VRA,verasity,1,2019-04-03T02:29:11.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xf411903cbc70a74d22900a5de66a2dda66507255'}"
+3819,1336,GAMB,GMB,gamb,1,2019-03-26T18:09:07.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9488936e4a36e3585afeb63377e2393aeac253ea'}"
+3820,6680,BuckHathCoin,BHIG,buck-hath-coin,1,2019-03-26T18:04:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x996229D0c6a485c7F4B52E092EAa907cB2def5C6'}"
+3822,118,Theta Fuel,TFUEL,theta-fuel,1,2019-03-28T18:09:09.000Z,2023-06-07T04:29:00.000Z,
+3826,1395,TOP,TOP,top,1,2019-03-28T18:24:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b'}"
+3829,910,Nash,NEX,nash,1,2019-04-01T21:29:06.000Z,2023-06-07T04:29:00.000Z,"{'id': 1376, 'name': 'Neo', 'symbol': 'NEO', 'slug': 'neo', 'token_address': '3a4acd3647086e7c44398aac0349802e6a171129'}"
+3830,1816,Veil,VEIL,veil,1,2019-04-02T04:29:06.000Z,2023-06-07T04:29:00.000Z,
+3831,1311,Safe Haven,SHA,safe-haven,1,2019-04-02T21:39:10.000Z,2023-06-07T04:29:00.000Z,"{'id': 3077, 'name': 'VeChain', 'symbol': 'VET', 'slug': 'vechain', 'token_address': '0x5db3c8a942333f6468176a870db36eef120a34dc'}"
+3835,304,Orbs,ORBS,orbs,1,2019-04-03T00:29:11.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa'}"
+3839,2085,xRhodium,XRC,xrhodium,1,2019-04-04T15:49:04.000Z,2023-06-07T04:29:00.000Z,
+3840,1246,1irstcoin,FST,1irstcoin,1,2019-04-08T21:49:11.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x310c93dfc1c5e34cdf51678103f63c41762089cd'}"
+3842,1660,Caspian,CSP,caspian,1,2019-04-05T18:54:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa6446d655a0c34bc4f05042ee88170d056cbaf45'}"
+3843,1069,BOLT,BOLT,bolt,1,2019-04-05T18:54:09.000Z,2023-06-07T04:29:00.000Z,"{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd5930c307d7395ff807f2921f12c5eb82131a789'}"
+3846,8293,VeriBlock,VBK,veriblock,1,2019-04-05T18:54:09.000Z,2023-06-07T04:29:00.000Z,
